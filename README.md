@@ -33,12 +33,15 @@ DAX (Data Analysis Expressions)
 
 Microsoft Excel / CSV (Data Source)
 
-📂 Project Structure
 Blinkit_PBI/
-│── Data/               # Raw & cleaned datasets
-│── Dashboard/          # Power BI (.pbix) file
-│── Screenshots/        # Dashboard preview images
-│── README.md           # Project documentation
+│
+├── Blinkit_PBI.pbix              # Power BI dashboard file
+├── BlinkIT Grocery Data.xlsx     # Raw dataset
+├── Sales.png                     # Sales KPI visualization
+├── Avg Sales.png                 # Average sales visualization
+├── rating.png                    # Ratings visualization
+├── background kpi.png            # KPI background design
+└── README.md                     # Project documentation
 
 🚀 How to Use
 
